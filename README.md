@@ -1,4 +1,4 @@
-GOMBERT Gwenaël
+GOMBERT Gwenaël<br>
 FOUILLEN Mathis
 
 Nous avons apprécié travailler sur ce projet, et nous sommes satisfait d'avoir un programme qui nous semble correspondre aux attentes du sujet avec les parties optionelles, tout semble fonctionner.
